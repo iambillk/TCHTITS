@@ -1,6 +1,10 @@
 Current Data Center Management System - Documentation
 System Overview
 The current system tracks dedicated servers and related infrastructure through a tabbed interface with the following main sections: General, Network, Server Control, Hardware, Software, Peripherals, Attachments, Documents, and History.
+
+New system shall be built using Windows VM, Python and Flask
+
+
 Technical Characteristics
 Data Center Identification
 
